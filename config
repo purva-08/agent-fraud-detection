@@ -1,0 +1,2 @@
+model_path: models/fraud_model.pkl
+threshold: 0.7
